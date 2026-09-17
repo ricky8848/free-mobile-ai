@@ -23,9 +23,6 @@
   Your home machine, accessible from your phone — no port forwarding, no public IP, no mobile app. Just a URL in your browser.
 </p>
 
-> *人在路上任意飘，家里电脑爆缸开工。*
-> Your home machine, accessible from your phone — no port forwarding, no public IP, no mobile app. Just a URL in your browser.
-
 ---
 
 ## 🌐 Languages / 语言 / 言語 / 언어
