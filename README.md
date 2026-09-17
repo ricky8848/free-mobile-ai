@@ -1,11 +1,41 @@
 # free mobile ai
 
-![free-mobile-ai](logo/wordmark.svg)
+<p align="center">
+  <img src="logo/free-mobile-ai.svg" width="120" height="120" alt="free mobile ai logo"/>
+  <br/><br/>
+  <img src="logo/wordmark.svg" width="320" height="42" alt="free mobile ai"/>
+</p>
 
-**Your home computer, in your pocket. One command. Zero apps.**
+<p align="center">
+  <img src="https://img.shields.io/badge/version-1.0-blue?style=flat-square" alt="version"/>
+  <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="license"/>
+  <img src="https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-lightgrey?style=flat-square" alt="platform"/>
+  <img src="https://img.shields.io/badge/tunnel-Cloudflare-purple?style=flat-square" alt="tunnel"/>
+  <img src="https://img.shields.io/badge/docs-EN%20%C2%B7%20%E4%B8%AD%20%C2%B7%20JA%20%C2%B7%20KO-blueviolet?style=flat-square" alt="docs"/>
+</p>
+
+<p align="center">
+  <strong>Your home computer, in your pocket. One command. Zero apps.</strong>
+</p>
+
+<p align="center">
+  <em>人在路上任意飘，家里电脑爆缸开工。</em><br/>
+  Your home machine, accessible from your phone — no port forwarding, no public IP, no mobile app. Just a URL in your browser.
+</p>
 
 > *人在路上任意飘，家里电脑爆缸开工。*
 > Your home machine, accessible from your phone — no port forwarding, no public IP, no mobile app. Just a URL in your browser.
+
+---
+
+## 🌐 Languages / 语言 / 言語 / 언어
+
+| Language | README | User Guide | Paper (PDF) |
+|----------|--------|------------|-------------|
+| 🇬🇧 **English** | [this page](#free-mobile-ai) | [Guide](docs/GUIDE.md) | [⬇ Download](https://github.com/ricky8848/free-mobile-ai/releases/download/v1.0.0/paper-technical-report-en.pdf) |
+| 🇨🇳 **中文** | [README](docs/README.zh.md) | [指引](docs/GUIDE.md#中文指引详细版) | [⬇ 下载](https://github.com/ricky8848/free-mobile-ai/releases/download/v1.0.0/paper-technical-report-zh-CN.pdf) |
+| 🇯🇵 **日本語** | [README](docs/README.ja.md) | — | [⬇ Download (EN)](https://github.com/ricky8848/free-mobile-ai/releases/download/v1.0.0/paper-technical-report-en.pdf) |
+| 🇰🇷 **한국어** | [README](docs/README.ko.md) | — | [⬇ Download (EN)](https://github.com/ricky8848/free-mobile-ai/releases/download/v1.0.0/paper-technical-report-en.pdf) |
 
 ---
 
@@ -110,15 +140,6 @@ Read the full paper: [docs/paper.md](docs/paper.md) (Chinese + English)
 | [docs/paper-en.pdf](docs/paper-en.pdf) | Paper (English), LaTeX typeset, 8 pages |
 | [docs/CAPACITY.md](docs/CAPACITY.md) | Capacity analysis (Cloudflare free-plan limits) |
 | [SECURITY.md](SECURITY.md) | Security model, threat assumptions, known boundaries |
-
----
-
-## Languages / 语言
-
-- 🇬🇧 **English** — [README](#free-mobile-ai) · [Guide](docs/GUIDE.md#english-guide)
-- 🇨🇳 **中文** — [README](docs/README.zh.md) · [指引](docs/GUIDE.md#中文指引详细版)
-- 🇯🇵 **日本語** — [README](docs/README.ja.md)
-- 🇰🇷 **한국어** — [README](docs/README.ko.md)
 
 ---
 
