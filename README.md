@@ -13,10 +13,12 @@
   <img src="https://img.shields.io/badge/tunnel-Cloudflare-purple?style=flat-square" alt="tunnel"/>
   <img src="https://img.shields.io/badge/docs-EN%20%C2%B7%20%E4%B8%AD%20%C2%B7%20JA%20%C2%B7%20KO-blueviolet?style=flat-square" alt="docs"/>
   <a href="https://doi.org/10.5281/zenodo.22804199"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22804199-brightgreen?style=flat-square&logo=doi" alt="DOI"/></a>
+  <a href="https://orcid.org/0009-0002-6382-0711"><img src="https://img.shields.io/badge/ORCID-0009--0002--6382--0711-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/></a>
 </p>
 
 <p align="center">
   📄 <strong>Paper:</strong> <a href="https://doi.org/10.5281/zenodo.22804199">free mobile ai: Zero-Install Tunnel-as-a-Service — Design and Analysis (v1.0)</a> · <a href="https://github.com/ricky8848/free-mobile-ai/releases/download/v1.0.0/paper-technical-report-en.pdf">EN PDF</a> · <a href="https://github.com/ricky8848/free-mobile-ai/releases/download/v1.0.0/paper-technical-report-zh-CN.pdf">中文 PDF</a>
+  <br/>✍️ Author: ricky8848 · ORCID [0009-0002-6382-0711](https://orcid.org/0009-0002-6382-0711)
 </p>
 
 <p align="center">
