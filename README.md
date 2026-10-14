@@ -144,6 +144,20 @@ Read the full paper: [docs/paper.md](docs/paper.md) (Chinese + English)
 | [docs/paper-en.pdf](docs/paper-en.pdf) | Paper (English), LaTeX typeset, 8 pages |
 | [docs/CAPACITY.md](docs/CAPACITY.md) | Capacity analysis (Cloudflare free-plan limits) |
 | [SECURITY.md](SECURITY.md) | Security model, threat assumptions, known boundaries |
+| [dsh-plugin/README.md](dsh-plugin/README.md) | **DeepSeek Harness plugin** (free): one-click install/update/uninstall card + per-OS commands in the Web GUI |
+
+---
+
+## DeepSeek Harness Plugin (free)
+
+The [dsh-plugin/](dsh-plugin/) directory is a **free, no-signup** [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) plugin. Install it on any machine running the Harness and a 「移动AI」 card appears under the chat composer:
+
+```bash
+# On the machine running DeepSeek Harness (dsh on PATH):
+dsh plugin --profile web add free-mobile-ai
+```
+
+The card gives you one-click install / update / uninstall for the mobile ai client, the per-OS install commands, and live status. Free for everyone — no account, no verification. See [dsh-plugin/README.md](dsh-plugin/README.md) for the full command reference (macOS / Linux / Windows).
 
 ---
 

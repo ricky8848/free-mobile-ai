@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "title": "移动AI · free mobile ai",
+    "description": "免费插件：任何电脑装一次 mobile ai 客户端，手机浏览器即可远程使用你的家里电脑。无需注册/验证，输入授权码即可；提供一键安装、更新、卸载，以及各操作系统的一键安装命令与实时状态检查。"
+  },
+  "card": {
+    "badge": "移动AI",
+    "installed": "已安装",
+    "notInstalled": "未安装",
+    "install": "一键安装",
+    "installing": "安装中…",
+    "uninstall": "卸载",
+    "uninstalling": "卸载中…",
+    "openConsole": "打开控制台",
+    "consoleUrl": "本地控制台（浏览器中打开）",
+    "copy": "复制",
+    "copied": "已复制",
+    "command": "本机一键安装命令",
+    "commands": "各操作系统命令",
+    "status": "状态",
+    "statusUnknown": "未检测",
+    "statusOk": "运行中",
+    "statusStopped": "已停止",
+    "statusMissing": "未安装",
+    "log": "安装输出",
+    "free": "免费 · 无需注册",
+    "learn": "了解更多"
+  }
+}

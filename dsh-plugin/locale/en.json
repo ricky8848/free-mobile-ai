@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "title": "Mobile AI · free mobile ai",
+    "description": "Free plugin: install the mobile ai client on any computer, then use your home machine from your phone's browser. No signup or verification — just a license code. One-click install/update/uninstall, per-OS install commands, and live status checks."
+  },
+  "card": {
+    "badge": "Mobile AI",
+    "installed": "Installed",
+    "notInstalled": "Not installed",
+    "install": "One-click install",
+    "installing": "Installing…",
+    "uninstall": "Uninstall",
+    "uninstalling": "Uninstalling…",
+    "openConsole": "Open console",
+    "consoleUrl": "Local console (opens in browser)",
+    "copy": "Copy",
+    "copied": "Copied",
+    "command": "One-click install command for this machine",
+    "commands": "Commands by OS",
+    "status": "Status",
+    "statusUnknown": "Unknown",
+    "statusOk": "Running",
+    "statusStopped": "Stopped",
+    "statusMissing": "Not installed",
+    "log": "Install output",
+    "free": "Free · no signup",
+    "learn": "Learn more"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "free-mobile-ai",
+  "version": "0.1.0",
+  "description": "免费插件：free mobile ai 移动AI — 你的家里电脑装一次，手机浏览器即可远程使用；任何机器都能接入，无需注册/验证。在对话输入框下方显示安装卡片，一键安装/更新/卸载，附各操作系统命令与实时状态检查。",
+  "type": "module",
+  "license": "MIT",
+  "homepage": "https://github.com/ricky8848/free-mobile-ai",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricky8848/free-mobile-ai.git"
+  },
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js",
+    "./client": "./client.js",
+    "./locale/*.json": "./locale/*.json",
+    "./icon": "./icon.svg",
+    "./client/mobileai.mjs": "./client/mobileai.mjs",
+    "./client/i.sh": "./client/i.sh",
+    "./client/i.ps1": "./client/i.ps1"
+  },
+  "files": [
+    "index.js",
+    "client.js",
+    "cordis.patch.yml",
+    "locale/*.json",
+    "icon.svg",
+    "client/mobileai.mjs",
+    "client/i.sh",
+    "client/i.ps1",
+    "README.md",
+    "LICENSE"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "host": {
+      "main": "./index.js"
+    },
+    "client": {
+      "platform": "web",
+      "immediately": true,
+      "inject": ["@deepseek-ai/dsh-client-ui-conversation"]
+    }
+  }
+}
